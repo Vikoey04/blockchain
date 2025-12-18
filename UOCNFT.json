@@ -2,16 +2,20 @@
   {
     "id": 0,
     "name": "UOC Monkey No Autorized",
-    "description": "A unique digital collectible of a UOC Monkey No Autorized."
+    "description": "A unique digital collectible of a UOC Monkey No Autorized.",
+    "image": "https://github.com/Vikoey04/blockchain/blob/main/monkey-noaut.jpg"
   },
   {
     "id": 1,
     "name": "UOC Monkey No Autorized",
-    "description": "A unique digital collectible of a UOC Monkey No Autorized."
+    "description": "A unique digital collectible of a UOC Monkey No Autorized.",
+    "image": "https://github.com/Vikoey04/blockchain/blob/main/monkey-aut.jpg"
   },
   {
     "id": 2,
     "name": "UOC Monkey Perhaps",
-    "description": "A unique digital collectible of a UOC Monkey Perhaps."
+    "description": "A unique digital collectible of a UOC Monkey Perhaps.",
+    "image": "https://github.com/Vikoey04/blockchain/blob/main/monkey-quiza.jpg"
   }
 ]
+
